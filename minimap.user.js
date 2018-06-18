@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Turkey Zone Mini Map
+// @name         Turkey Zone Mini Maps
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  Turkey Zone Mini Map
+// @description  Turkey Zone Mini Maps
 // @author       Emir Kaya
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
