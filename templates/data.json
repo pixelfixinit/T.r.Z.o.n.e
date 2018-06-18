@@ -1,0 +1,23 @@
+{
+  "TrArmy": {
+    "name": "TrArmy.png",
+    "x": 2338,
+    "y": -987,
+    "width": 497,
+    "height": 133
+   },
+  "SaldrBayragi": {
+    "name": "SaldrBayragi.png",
+    "x": 2328,
+    "y": -1238,
+    "width": 345,
+    "height": 244
+   },
+  "CentralTurkeyFlag": {
+    "name": "CentralTurkeyFlag.png",
+    "x": 862,
+    "y": -505,
+    "width": 327,
+    "height": 217
+  }
+}
