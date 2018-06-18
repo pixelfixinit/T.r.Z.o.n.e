@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         TurkishArmy
+// @name         Turkey Zone Mini Map
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  TurkishArmy
-// @author       ?
+// @description  Turkey Zone Mini Map
+// @author       Emir Kaya
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/EmirKayaZ/T-RKishArmyM/
-// @updateURL    https://raw.githubusercontent.com/EmirKayaZ/T-RKishArmyM/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/EmirKayaZ/T-RKishArmyM/blob/master/minimap.user.js
+// @homepage     https://github.com/EmirKayaZ/T.r.Z.o.n.e/
+// @updateURL    https://raw.githubusercontent.com/T.r.Z.o.n.e/T-RKishArmyM/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/T.r.Z.o.n.e/T-RKishArmyM/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/EmirKayaZ/T-RKishArmyM/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/EmirKayaZ/T.r.Z.o.n.e/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
