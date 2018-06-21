@@ -6,6 +6,13 @@
     "width": 497,
     "height": 133
    },
+    "Turkiye": {
+    "name": "Turkiye.png",
+    "x": -4096,
+    "y": 3295,
+    "width": 1307,
+    "height": 802
+   },
     "Fenerbahce": {
     "name": "fenerbahcelogo.png",
     "x":  1036,
@@ -34,40 +41,12 @@
     "width": 440,
     "height": 384
    },
-    "sanliturk": {
-    "name": "sanliturk.png",
-    "x": -4096,
-    "y": 3295,
-    "width": 1307,
-    "height": 802
-   },
-    "nemutlu": {
-    "name": "nemutlu.png",
-    "x": -3572,
-    "y":  3270,
-    "width": 256,
-    "height": 24
-   },
       "AlsancakPlan": {
     "name": "AlsancakPlan.png",
     "x": 71,
     "y": -3814,
     "width": 273,
     "height": 155
-   },
-      "TRzoneAilesi": {
-    "name": "TRzoneAilesi.png",
-    "x": -4096,
-    "y": 3220,
-    "width": 522,
-    "height": 75
-   },
-      "TurkiyeKalkan": {
-    "name": "TurkiyeKalkan.png",
-    "x": -3338,
-    "y": 3044,
-    "width": 105,
-    "height": 132
    },
   "CentralTurkeyFlag": {
     "name": "CentralTurkeyFlag.png",
